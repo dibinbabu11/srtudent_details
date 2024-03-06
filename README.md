@@ -4,13 +4,13 @@ installed
 djnago
 
 major parts 
-create student detils
-update student details
-delete student details
-find sum of mark
-show the student grade as per mark
-show the student passes or failed
-create forms.py
+*   create student detils
+*   update student details
+*   delete student details
+*    find sum of mark
+*    show the student grade as per mark
+*    show the student passes or failed
+*    create forms.py
 
 conditions
 
